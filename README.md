@@ -1,57 +1,34 @@
-Image Similarity Challenge
-==============================
+# Facebook AI Image Similarity Challenge: Matching Track
 
-Our attempt at cracking the FaceBook AI: Image Similarity Challenge, 2021
+## Team Number: **5D01**
 
-Project Organization
-------------
+## Team Members
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+- Chidambar Hunakunti - 419 - 01FE19BCS219@kletech.ac.in - 90191 61491
+- Aditya Vikram - 420 - 01FE19BCS220@kletech.ac.in - 80760 37651
+- Rishab Jain - 428 - 01FE19BCS228@kletech.ac.in - 97010 01215
+- Harshita Hiremath - 435 - 01FE19BCS235@kletech.ac.in - 89716 51589
 
+## Link to Competition
 
---------
+<https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/>
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+## Dataset Description
+
+A complete guide to downloading the dataset can be found here:
+<https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/data/>
+
+## Libraries Used
+
+TensorFlow, Pandas, and NumPy.
+For a full list of libraries used, please check out ```environment.yml``` file.
+
+## Configuration
+
+Before proceeding, make sure you have either Anaconda or Miniconda installed on your system.
+
+- Make a new conda environment with all the necessary packages by using the command:
+  ```conda env create -f environment.yml```.
+- Activate the conda environment using the command:
+  ```conda activate img-similarity```.
+- Using terminal, type the command ```jupyter notebook``` to start a new jupyter server, to run the notebook.

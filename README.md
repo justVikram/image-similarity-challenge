@@ -4,10 +4,10 @@
 
 ## Team Members
 
-- Chidambar Hunakunti - 419 - 01FE19BCS219@kletech.ac.in - 90191 61491
-- Aditya Vikram - 420 - 01FE19BCS220@kletech.ac.in - 80760 37651
-- Rishab Jain - 428 - 01FE19BCS228@kletech.ac.in - 97010 01215
-- Harshita Hiremath - 435 - 01FE19BCS235@kletech.ac.in - 89716 51589
+- Chidambar Hunakunti - 419 - 01FE19BCS219@kletech.ac.in
+- Aditya Vikram - 420 - 01FE19BCS220@kletech.ac.in
+- Rishab Jain - 428 - 01FE19BCS228@kletech.ac.in
+- Harshita Hiremath - 435 - 01FE19BCS235@kletech.ac.in
 
 ## Link to Competition
 
